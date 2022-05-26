@@ -44,6 +44,7 @@ public class CRMStepDef {
 	public void initializeChrome()
 	{
 		System.out.println("chrome browser");
+		System.out.println("modified for CR1");
 	}
 	
 	//@Before(order=3)
